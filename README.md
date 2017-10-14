@@ -5,3 +5,5 @@ Hi Fellow!
 This my first edit done to try the readme-edits branch I just created
 -----------------------
 This is my second edit one!
+=======================
+This is my third edit one!
